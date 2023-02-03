@@ -38,7 +38,7 @@ Also, you'll need to the servers running locally on your machine with the mock d
 Cloning the Repository
 
 ```
-$ git clone https://github.com/daniel30-07/taxi-app-react-native.git
+$ git clone https://github.com/crazynavi/taxi-app.git
 ```
 
 ```
