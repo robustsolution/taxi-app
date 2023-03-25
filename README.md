@@ -13,7 +13,8 @@ https://streamable.com/jb8wyo
 If you want to implement it on android, you must make adjustments and request background permission directly with Google Developer:</em>
 https://support.google.com/googleplay/android-developer/answer/9799150?hl=en
 
- 
+## Contributors
+* dgtalbox contributed on this repo.
 
 ## Functionalities
 * Sign up / Login / Authentication
